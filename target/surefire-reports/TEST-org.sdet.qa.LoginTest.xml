@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="org.sdet.qa.LoginTest" time="8.16" tests="2" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="18"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1251"/>
+    <property name="java.class.path" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.3.3\plugins\maven\lib\maven3\bin\..\boot\plexus-classworlds-2.6.0.jar"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Europe/Moscow"/>
+    <property name="maven.conf" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.3.3\plugins\maven\lib\maven3\bin\../conf"/>
+    <property name="java.vm.specification.version" value="18"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="RU"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-18\bin"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean test"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="maven.home" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.3.3\plugins\maven\lib\maven3\bin\.."/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\pasdel"/>
+    <property name="user.language" value="ru"/>
+    <property name="sun.stderr.encoding" value="cp866"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2022-03-22"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-18"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="sun.stdout.encoding" value="cp866"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="18+36-2087"/>
+    <property name="user.name" value="pasdel"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\pasdel\AppData\Local\Temp\"/>
+    <property name="java.version" value="18"/>
+    <property name="user.dir" value="C:\JavaProjects\simbirsoft\qaTest"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\JavaProjects\simbirsoft\qaTest"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1251"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-18\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\VMware\VMware Player\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Windows\twain_32\CNQL25;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files\Calibre2\;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.3.3\plugins\maven\lib\maven3\\bin;C:\python3.10\Scripts\;C:\python3.10\;C:\Users\pasdel\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\PhpStorm 2021.3.2\bin;C:\Users\pasdel\AppData\Roaming\npm;C:\Users\pasdel\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\PostgreSQL\14\bin;C:\Program Files\JetBrains\PyCharm 2022.3.2\bin;C:\OpenServer\modules\php\PHP_8.1;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.3.3\bin;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="18+36-2087"/>
+    <property name="classworlds.conf" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.3.3\plugins\maven\lib\maven3\bin\..\bin\m2.conf"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="library.jansi.path" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.3.3\plugins\maven\lib\maven3\bin\..\lib\jansi-native"/>
+    <property name="java.class.version" value="62.0"/>
+  </properties>
+  <testcase name="Case1" classname="org.sdet.qa.LoginTest" time="5.872"/>
+  <testcase name="Case2" classname="org.sdet.qa.LoginTest" time="2.141"/>
+</testsuite>
